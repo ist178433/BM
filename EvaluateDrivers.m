@@ -40,6 +40,7 @@ for i=1: NDriver
     %Update the result
     JntDriver(i).Data=[Time',Dof];
     %End of the loop that goes through all bodies
+    %codigo
 end
 %End of function 
 end
